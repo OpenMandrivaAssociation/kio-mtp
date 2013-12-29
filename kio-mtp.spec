@@ -3,7 +3,7 @@
 Summary:	MTP Kio slave
 Name:		kio-mtp
 Version:	0
-Release:	0.%{git}.1
+Release:	0.%{git}.2
 Group:		Graphical desktop/KDE
 License:	GPLv2+
 Url:		https://projects.kde.org/projects/playground/base/kio-mtp
