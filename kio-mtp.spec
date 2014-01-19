@@ -1,9 +1,9 @@
-%define git 20130902
+%define git 20131020
 
 Summary:	MTP Kio slave
 Name:		kio-mtp
 Version:	0
-Release:	0.%{git}.2
+Release:	0.%{git}.1
 Group:		Graphical desktop/KDE
 License:	GPLv2+
 Url:		https://projects.kde.org/projects/playground/base/kio-mtp
